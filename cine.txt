@@ -1,0 +1,113 @@
+
+
+#EXTM3U
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGSS",SportTv1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGSS",SportTv2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGSS",SportTv3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGSS",SportTv4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGSS",SportTv5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",SportTv1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",SportTv2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",SportTv3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",SportTv4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",SportTv5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",ESPN Xtra BR
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/24266
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",ESPN 2 HD BR
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/24264
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",ESPN HD BR
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/24263
+#EXTINF:-1   tvg-logo="https://image.freepik.com/free-vector/head-lion-logo-design_102395-43.jpg" group-title="KINGS x LM x ALL",ESPN Brasil HD BR
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/35218
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://KINGS x LM x ALLcontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="KINGS x LM x ALL",Cinemax FHD
+https://nonton.site:8443/6894864475/7163819284/30185
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="KINGS x LM x ALL",Cinemax ID
+https://nonton.site:8443/6894864475/7163819284/2156
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://KINGS x LM x ALLcontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="KINGS x LM x ALL",Cinemax SD
+https://nonton.site:8443/6894864475/7163819284/26599
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="KINGS x LM x ALL",FLIK HD
+https://nonton.site:8443/6894864475/7163819284/29592
+#EXTINF:-1 tvg-id="FOXActionKINGS x LM x ALLs.id" tvg-name="FOX Action KINGS x LM x ALLs FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="KINGS x LM x ALL",FOX Action KINGS x LM x ALLs FHD
+https://nonton.site:8443/6894864475/7163819284/1478
+#EXTINF:-1 tvg-id="FOXActionKINGS x LM x ALLs.id" tvg-name="FOX Action KINGS x LM x ALLs HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="KINGS x LM x ALL",FOX Action KINGS x LM x ALLs HD
+https://nonton.site:8443/6894864475/7163819284/99
+#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="KINGS x LM x ALL",FOX Crime HD
+https://nonton.site:8443/6894864475/7163819284/763
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family KINGS x LM x ALLs ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="KINGS x LM x ALL",FOX Family KINGS x LM x ALLs ID
+https://nonton.site:8443/6894864475/7163819284/14994
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="KINGS x LM x ALL",FOX HD
+https://nonton.site:8443/6894864475/7163819284/95
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="KINGS x LM x ALL",FOX Life HD
+https://nonton.site:8443/6894864475/7163819284/94
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX KINGS x LM x ALLs HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="KINGS x LM x ALL",FOX KINGS x LM x ALLs HD
+https://nonton.site:8443/6894864475/7163819284/98
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="KINGS x LM x ALL",Galaxy Premium SD
+https://nonton.site:8443/6894864475/7163819284/29603
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="KINGS x LM x ALL",Galaxy SD
+https://nonton.site:8443/6894864475/7163819284/29604
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="KINGS x LM x ALL",HBO Family FHD
+https://nonton.site:8443/6894864475/7163819284/30184
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="KINGS x LM x ALL",HBO Family HD
+https://nonton.site:8443/6894864475/7163819284/592
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="KINGS x LM x ALL",HBO Family SD
+https://nonton.site:8443/6894864475/7163819284/26598
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://KINGS x LM x ALLcontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="KINGS x LM x ALL",HBO FHD
+https://nonton.site:8443/6894864475/7163819284/1496
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="KINGS x LM x ALL",HBO HD
+https://nonton.site:8443/6894864475/7163819284/210
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="KINGS x LM x ALL",HBO Hits FHD
+https://nonton.site:8443/6894864475/7163819284/11492
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="KINGS x LM x ALL",HBO Hits HD
+https://nonton.site:8443/6894864475/7163819284/591
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="KINGS x LM x ALL",HBO Hits SD
+https://nonton.site:8443/6894864475/7163819284/26596
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="KINGS x LM x ALL",HBO SD
+https://nonton.site:8443/6894864475/7163819284/26595
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="KINGS x LM x ALL",HBO Signature FHD
+https://nonton.site:8443/6894864475/7163819284/1498
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="KINGS x LM x ALL",HBO Signature HD
+https://nonton.site:8443/6894864475/7163819284/873
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="KINGS x LM x ALL",HBO Signature SD
+https://nonton.site:8443/6894864475/7163819284/26597
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="KINGS x LM x ALL",HITS HD
+https://nonton.site:8443/6894864475/7163819284/1195
+#EXTINF:-1 tvg-id="" tvg-name="Hits KINGS x LM x ALL SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="KINGS x LM x ALL",Hits KINGS x LM x ALL SD
+https://nonton.site:8443/6894864475/7163819284/957
+#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="KINGS x LM x ALL",IMC SD
+https://nonton.site:8443/6894864475/7163819284/35484
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Picture" tvg-logo="" group-title="KINGS x LM x ALL",IN: & Picture
+https://nonton.site:8443/6894864475/7163819284/31875
+#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD" tvg-logo="" group-title="KINGS x LM x ALL",IN: &TV HD
+https://nonton.site:8443/6894864475/7163819284/31876
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="KINGS x LM x ALL",KIX HD
+https://nonton.site:8443/6894864475/7163819284/8
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="KINGS x LM x ALL",LifeTime HD
+https://nonton.site:8443/6894864475/7163819284/866
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="KINGS x LM x ALL",Red By HBO HD
+https://nonton.site:8443/6894864475/7163819284/4832
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese KINGS x LM x ALLs HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_KINGS x LM x ALLs_2012.png" group-title="KINGS x LM x ALL",Star Chinese KINGS x LM x ALLs HD
+https://nonton.site:8443/6894864475/7163819284/780
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese KINGS x LM x ALLs Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_KINGS x LM x ALLs_legend.png" group-title="KINGS x LM x ALL",Star Chinese KINGS x LM x ALLs Legend
+https://nonton.site:8443/6894864475/7163819284/1859
+#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="KINGS x LM x ALL",Star World
+https://nonton.site:8443/6894864475/7163819284/381
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="KINGS x LM x ALL",Thrill
+https://nonton.site:8443/6894864475/7163819284/4
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="KINGS x LM x ALL",Warner TV ID HD
+https://nonton.site:8443/6894864475/7163819284/1533
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="KINGS x LM x ALL",Zee Bioskop
+https://nonton.site:8443/6894864475/7163819284/7
+
+
+
+
